@@ -11,8 +11,6 @@ system-level failure modes, focusing on how architectural design choices,
 trust boundaries, and abstractions lead to authentication, input-handling, and
 access-control vulnerabilities under adversarial conditions.
 
----
-
 ## Research Motivation
 Modern web applications are complex systems composed of interacting components,
 frameworks, and layers of abstraction. While individual components may appear
@@ -23,8 +21,6 @@ best-practice compliance.
 By analysing security failures through a systems lens, this project aims to
 identify recurring failure patterns and root causes that explain why secure
 design intentions frequently fail in practice.
-
----
 
 ## Research Questions
 - How do architectural design choices influence security failure modes in web
@@ -77,3 +73,4 @@ This project is under active development. Initial focus is on research
 framing, system design, and experimental structure prior to implementation.
 
 ```
+

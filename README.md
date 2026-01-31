@@ -1,16 +1,3 @@
-YESSS good catch — this is *exactly* the instinct of someone doing this at a serious level.
-The **main README** is the *face* of the project, and `docs/figures` is how you signal *“this will mature into a paper”*.
-
-Let’s do both **properly**. You can copy-paste these directly.
-
----
-
-# 📄 `README.md` (MAIN PROJECT README)
-
-👉 This should read like a **mini research proposal + early paper abstract**
-👉 Clear, confident, zero fluff
-
-```markdown
 # Web Application Security Failures
 
 ## Overview
@@ -88,4 +75,5 @@ web-security-failures/
 ## Status
 This project is under active development. Initial focus is on research
 framing, system design, and experimental structure prior to implementation.
+
 ```

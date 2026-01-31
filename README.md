@@ -31,8 +31,6 @@ design intentions frequently fail in practice.
   architectures?
 - How do adversaries exploit system-level inconsistencies and trust boundaries?
 
----
-
 ## Methodology
 The project adopts a system-level experimental approach:
 - Define a clear threat model and trust assumptions
@@ -44,7 +42,6 @@ The project adopts a system-level experimental approach:
 Rather than cataloguing vulnerabilities, failures are analysed based on their
 underlying causes and architectural context.
 
----
 
 ## Project Structure
 ```
@@ -58,7 +55,6 @@ web-security-failures/
 
 ```
 
----
 
 ## Expected Outcomes
 - A taxonomy of system-level security failure modes in web applications
@@ -66,11 +62,7 @@ web-security-failures/
 - Insights into why common security failures evade detection
 - A research-oriented codebase suitable for further study or publication
 
----
 
 ## Status
 This project is under active development. Initial focus is on research
 framing, system design, and experimental structure prior to implementation.
-
-```
-
